@@ -68,8 +68,8 @@ Built to sharpen real-world **data analysis** and **Pandas** skills by working d
 ---
 
 ## 🧠 Author
-Made with 💙 by **[Your Name]**  
-Connect with me on [LinkedIn](https://linkedin.com/) | [Twitter](https://twitter.com/) | [Portfolio](https://your-website.com)
+Made with 💙 by **RISHI**  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/xrishix/)
 
 ---
 
