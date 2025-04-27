@@ -41,7 +41,7 @@ Built to sharpen real-world **data analysis** and **Pandas** skills by working d
 ## ⚡ How to Run Locally
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/xrishis/IPhone-Mini-Data-Analysis.git
    ```
 2. Open the Jupyter Notebook (`.ipynb`) file.
 3. Install dependencies if needed:
